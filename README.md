@@ -1,10 +1,10 @@
 # One Star, Five Stars for the Food
 
-![make.fun badge](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7.svg)
-![rank](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/cendelobening/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/rank.svg)
-![reward](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/cendelobening/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/reward.svg)
+[![make.fun](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
+[![rank](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/cendelobening/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/rank.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
+[![reward](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/cendelobening/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/reward.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
 
-Bounty: https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7
+Entry for the [make.fun bounty "One Star, Five Stars for the Food"](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7): a one-star review that still gives the food five stars.
 
 ## Entry
 
